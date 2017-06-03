@@ -94,7 +94,7 @@ Adding the resampling phase, we observe better trajectories (this is not perfect
 
 *Comparison of the trajectory for the best particle with SIS and SISR*
 
-We show the observations for the best particle, i.e. the particle with the highest normalized weight after the 100 steps. As before, the result is much better for the SISR algorithm.
+We show the observations for the best particle, i.e. the particle with the highest normalized weight after the 100 steps. As before, the result is much better with the SISR algorithm.
 
 With SIS:
 
